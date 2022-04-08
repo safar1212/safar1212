@@ -80,6 +80,11 @@ I'm Safar Ali, a Full Stack software Developer. I Spend most of time coding outs
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <br/>
