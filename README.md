@@ -82,12 +82,12 @@ I'm Safar Ali, a Full Stack software Developer. I spend most of time coding outs
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 9 mins    ███████████████████▓░░░░░   79.23 %
-CSS          1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-Markdown     47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript   8 hrs 57 mins   █████████████████████▓░░░   86.07 %
+Markdown     46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+CSS          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+YAML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
