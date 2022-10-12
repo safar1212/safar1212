@@ -82,11 +82,11 @@ I'm Safar Ali, a Full Stack software Developer. I spend most of time coding outs
 <!--START_SECTION:waka-->
 
 ```text
-Ruby       4 hrs 20 mins   █████████████▒░░░░░░░░░░░   52.81 %
-ERB        3 hrs 22 mins   ██████████▒░░░░░░░░░░░░░░   41.11 %
-YAML       22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Markdown   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+ERB        4 hrs 57 mins   ████████████▓░░░░░░░░░░░░   50.33 %
+Ruby       4 hrs 28 mins   ███████████▒░░░░░░░░░░░░░   45.45 %
+YAML       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Markdown   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
