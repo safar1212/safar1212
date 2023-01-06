@@ -14,9 +14,9 @@ I'm Safar Ali, a Full Stack software Developer. I spend most of time coding outs
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently student at Microverse.
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Videos on coding.
+- 🔭 I’ve completed my Software development course from Microverse.
+- :computer: Most used line of code `git commit -m "Commit message"
+- 🤔 I’m looking for apportunites.
 - 📫 How to reach me: miqra019@gmail.com.
 - 😄 Pronouns: Safar Ali, Ali, Ali Safar.
 - ⚡ Fun fact: I play games and go to the GYM very often.
