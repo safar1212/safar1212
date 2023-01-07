@@ -1,10 +1,10 @@
 ## Hi I'm Safar Ali <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Safar Ali, a Full Stack software Developer. I spend most of time coding outstanding projects or chilling with friends.
+I'm Safar Ali, a Full Stack Software Developer. I spend most of my time coding outstanding projects or chilling with friends.
 
 <br/>
 
-:mailbox: Reach me out!
+:mailbox: Reach out to me!
 
 <br/>
 
@@ -16,10 +16,10 @@ I'm Safar Ali, a Full Stack software Developer. I spend most of time coding outs
 
 - 🔭 I’ve completed my Software development course from Microverse.
 - :computer: Most used line of code `git commit -m "Commit message"
-- 🤔 I’m looking for apportunites.
+- 🤔 I’m looking for opportunities.
 - 📫 How to reach me: miqra019@gmail.com.
 - 😄 Pronouns: Safar Ali, Ali, Ali Safar.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I often play games and go to the gym.
 
 <br/>
 
