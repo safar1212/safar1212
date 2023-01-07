@@ -8,7 +8,7 @@ I'm Safar Ali, a Full Stack Software Developer. I spend most of my time coding o
 
 <br/>
 
-[![Facebook Badge](https://img.shields.io/twitter/url?label=Safar%20Ali&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fsafarali.mohsini%2F)](https://www.facebook.com/safarali.mohsini/)[![Twitter Badge](https://img.shields.io/twitter/url?label=Safar%20Ali&style=social&url=https%3A%2F%2Ftwitter.com%2FSafarAli999)](https://twitter.com/safarali999)[![Linkedin Badge](https://img.shields.io/twitter/url?label=Safar%20Ali&logo=linkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsafar-ali999%2F)](https://www.linkedin.com/in/safar-ali999/)[![Mail Badge](https://img.shields.io/twitter/url?label=miqra019%40gmail.com&logo=Gmail&style=social&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F1%2F%23inbox)](mailto:miqra019@gmail.com)
+[![Facebook Badge](https://img.shields.io/twitter/url?label=Safar%20Ali&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fsafarali.mohsini%2F)](https://www.facebook.com/safarali.mohsini/)[![Twitter Badge](https://img.shields.io/twitter/url?label=Safar%20Ali&style=social&url=https%3A%2F%2Ftwitter.com%2FSafarAli999)](https://twitter.com/safarali999)[![Linkedin Badge](https://img.shields.io/twitter/url?label=Safar%20Ali&logo=linkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsafar-ali999%2F)](https://www.linkedin.com/in/safar9/)[![Mail Badge](https://img.shields.io/twitter/url?label=miqra019%40gmail.com&logo=Gmail&style=social&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F1%2F%23inbox)](mailto:miqra019@gmail.com)
 
 <br/>
 
