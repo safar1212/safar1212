@@ -77,15 +77,6 @@ I'm Safar Ali, a Full Stack Software Developer. I spend most of my time coding o
 
 <br/>
 
-<!-- #### Coding Stats
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka--> -->
 
 <br/>
 
